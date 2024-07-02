@@ -6,12 +6,15 @@
 
 ### How to install?
 Download package:
+
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Install.png)
 
 Install package:
+
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Package.png)
 
 The folder has been created:
+
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Foldier.png)
 
 ### How to use it?
