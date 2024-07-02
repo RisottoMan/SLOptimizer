@@ -27,6 +27,6 @@ Now the cube is a list of quads. Optimization is achieved by removing quads:
 
 Enjoy the high fps in the game!
 
-# Credits
+## Credits
 - Thanks to **AlexanderK** for writing the code.
 - I am the author of the idea.
