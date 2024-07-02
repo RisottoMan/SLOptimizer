@@ -19,7 +19,11 @@ The folder has been created:
 
 ### How to use it?
 Take a cube on the scene and right-click as shown in the photo:
+
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Using.png)
 
 Now the cube is a list of quads. Optimization is achieved by removing quads:
+
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Optimized.png)
+
+Enjoy the high fps in the game!
