@@ -26,3 +26,7 @@ Now the cube is a list of quads. Optimization is achieved by removing quads:
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Optimized.png)
 
 Enjoy the high fps in the game!
+
+# Credits
+- Thanks to **AlexanderK** for writing the code.
+- I am the author of the idea.
