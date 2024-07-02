@@ -5,6 +5,9 @@
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Logo.png)
 
 ### How to install?
+Download package:
+![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Install.png)
+
 Install package:
 ![Logo](https://github.com/RisottoMan/SLOptimizer/blob/main/Photo/Package.png)
 
